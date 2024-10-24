@@ -1,7 +1,7 @@
 import React, { useRef, useEffect, useState } from "react";
 import gsap from "gsap";
 import Dropdown from "../components/Home/DropDown";
-import InputField from "../components/Home/Inputfield";
+import InputField from "../components/Home/InputField";
 import Button1 from "../components/Home/Button1";
 import ResultDisplay from "../components/Home/EvaluationResult";
 import RefreshButton from "../components/Home/RefreshButton";
